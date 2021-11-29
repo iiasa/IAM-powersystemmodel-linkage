@@ -19,6 +19,10 @@ http://pure.iiasa.ac.at/17116
 
 Furthermore, use of the script requires appropriate credit to be given to the following manuscripts and sources as used for the workflow: 
 
+BP (2021).
+Statistical Review of World Energy 2021.
+https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html
+
 Brinkerink M, Gallachóir BÓ, Deane P (2021).  
 Building and Calibrating a Country-Level Detailed Global Electricity Model Based on Public Data.  
 Energy Strategy Reviews 33: 100592.  
@@ -38,6 +42,10 @@ Dellink R, Chateau J, Lanzi E, et al (2017).
 Long-term economic growth projections in the Shared Socioeconomic Pathways.  
 Global Environmental Change 42: 200–214.  
 doi: https://doi.org/10.1016/j.gloenvcha.2015.06.004
+
+Ember (2021).
+European Electricity Generation
+https://ember-climate.org/european-electricity-transition/
 
 Gidden M, Huppmann D (2019).  
 pyam: a Python Package for the Analysis and Visualization of Models of the Interaction of Climate, Human, and Environmental Systems.  
@@ -68,6 +76,11 @@ Riahi K, van Vuuren DP, Kriegler E, et al (2017).
 The Shared Socioeconomic Pathways and their energy, land use, and greenhouse gas emissions implications: An overview.  
 Global Environmental Change 42: 153–168.  
 doi: https://doi.org/10.1016/j.gloenvcha.2016.05.009
+
+Ritchie H, Roser M (2020).  
+"Energy"  
+Published online at OurWorldInData.org. 
+Retrieved from: 'https://ourworldindata.org/energy' [Online Resource]
 
 Sadovskaia K, Bogdanov D, Honkapuro S, et al (2019).  
 Power transmission and distribution losses – A model based on available empirical data and future trends for all countries globally.  
