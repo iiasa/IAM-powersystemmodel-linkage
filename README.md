@@ -4,7 +4,7 @@ This repository contains a script that can be used to facilitate the data workfl
 
 ## License
 
-Copyright (c) 2021 Maarten Brinkerink
+Copyright (c) 2022 Maarten Brinkerink
 
 This work is released under the MIT license. ![License](https://img.shields.io/github/license/iiasa/IAM-powersystemmodel-linkage)
 
@@ -12,10 +12,10 @@ This work is released under the MIT license. ![License](https://img.shields.io/g
 
 This repository contains the script as developed for the following manuscript:  
 
-Brinkerink, M, Zakeri, B, Huppmann, D, Glynn, J, Ó Gallachóir, B, & Deane, P (2021).  
+Brinkerink, M, Zakeri, B, Huppmann, D, Glynn, J, Ó Gallachóir, B, & Deane, P (2022).  
 Assessing global climate change mitigation scenarios from a power system perspective using a novel multi-model framework.  
-Environmental Modelling & Software (Submitted)  
-http://pure.iiasa.ac.at/17116
+Environmental Modelling & Software 150: 105336.
+doi: https://doi.org/10.1016/j.envsoft.2022.105336
 
 Furthermore, use of the script requires appropriate credit to be given to the following manuscripts and sources as used for the workflow: 
 
